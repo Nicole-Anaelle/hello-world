@@ -1,2 +1,5 @@
 # hello-world
-My hello-world example
+My hello-world example.
+
+additional information
+
